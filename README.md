@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abanoub899
-- 👀 I’m interested in php developing 
+- 👀 I’m interested in python odoo developing 
 - 🌱 I’m currently learning solid principles and problem solving
 - 💞️ I’m looking to collaborate on backend php developnig
 - 📫 How to reach me  :abanobgayed@outlook.com and  my number is:+201123950304
